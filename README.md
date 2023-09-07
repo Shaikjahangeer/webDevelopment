@@ -28,4 +28,4 @@ The projects included in this repository are carefully selected to cover a wide 
 - **Data Visualization**: Projects that focus on presenting data in visually appealing and interactive ways, using libraries like D3.js or Chart.js.
 
 ## Contributions and Feedback
-I am open to contributions and feedback from the community. If you find any issues, have suggestions for improvement, or would like to contribute your own projects, please feel free to reach out to me. You can contact me at info@nekki.com. Your input is highly valued and will help me further enhance my frontend skills and make this repository even better.
+I am open to contributions and feedback from the community. If you find any issues, have suggestions for improvement, or would like to contribute your own projects, please feel free to reach out to me. You can contact me at shaikjahangeer24@gmail.com. Your input is highly valued and will help me further enhance my frontend skills and make this repository even better.
