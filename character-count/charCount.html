@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Charcounter</title>
+    <link rel="stylesheet" href="charCount.css" />
+  </head>
+  <body>
+    <div class="count-container" id="count-container">
+      <h2 class="count-title">Real-time Character Counter</h2>
+      <textarea
+        type="text"
+        class="input"
+        placeholder="Enter your text here..."
+        autocomplete="off"
+        autofocus="true"
+        required
+        maxlength="50"
+      ></textarea>
+      <span class="characters"
+        >Total Characters: <span class="char-count">0</span></span
+      >
+      <span class="remained">Remaining: <span class="rem-count">50</span></span>
+    </div>
+    <script src="./charCount.js"></script>
+  </body>
+</html>
